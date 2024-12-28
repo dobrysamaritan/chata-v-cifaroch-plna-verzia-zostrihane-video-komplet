@@ -1,4 +1,4 @@
-# Chata v Čifároch - Plná verzia zostrihané video
+# Chata v Čifároch - Plná verzia zostrihané video komplet
 
 > Pridaj sa k nám a pomôž nám otitulkovať video [>> návod nižšie tu <<](#návod-upraviť-titulky-videa)
 
@@ -28,8 +28,23 @@ Momentálne potrebujeme otitulkovať celé video, [>> návod nižšie tu <<](#n�
 
 ## Návod upraviť titulky videa
 
-todo
+Momentálne je otitulkovaných iba prvých 10 minút videa a zvyšok videa sú automaticky generované titulky z Youtube čo určite pomôže. Ak chcete titulkovať tak:
 
-# Klúčové slová
+1. Stiahnite video súbor [chata-v-cifaroch-full.mp4](path/to/chata-v-cifaroch-full.mp4) tak že sa naň prekliknete a vpravo hore kliknete na ikonku ![download icon](./assets/images/downloadicon.png) šípky dole čo je download raw file
+2. Stiahnite súbor [chata-v-cifaroch-full.srt](path/to/chata-v-cifaroch-full.srt) tak že sa naň prekliknete a znovu pravo hore kliknete na ikonku šípky dole ![download icon](./assets/images/downloadicon.png) čo je download raw file
+3. stiahnuté súbory otvorte u seba v počítači nejakom programe, ktorý dokáže editovať SRT titulky, napr. [SubtitleEdit](https://www.nikse.dk/subtitleedit), alebo iným, ktorý vám vyhovuje
+4. editujte titulky. Dôležité je aby v nich bolo VŽDY celé meno hovoriaceho, napr. `Robert Fico: Niečo hovorí`. Ak je jeho reč na viacero screenov, tak už meno byť znovu nemusí, ale vždy ak začne hovoriť niekto iný tak treba VŽDY jeho CELÉ meno (toto bude velmi dôležité v budúcnosti pre generovanie zjednodušeného prepisu). Pozrite si prvých 10 minút tituliek ako to je tam.
+5. uložte súbor a môžete urobiť PR srt súboru, co v praxi je [editácia titulkového súboru tu](https://github.com/dobrysamaritan/chata-v-cifaroch-plna-verzia-zostrihane-video-komplet/edit/main/chata-v-cifaroch-full.srt), alebo mi ten editovaný súbor pošlite na môj email [dobrysamaritan@proton.me](mailto:dobrysamaritan@proton.me) a ja tie zmeny publikujem. Budem sa snažiť publikovať vždy čo najskôr ako to pôjde.
+
+Poprosím teraz pri začiatku si vybrať úplne náhodný úsek vo videu a ten titulkujte, aby sa nestalo, že 10 ľudí bude teraz prekladať tú istú časť videa. Neskôr, keď budem mať prehľad koľko ľudí na tom reálne má ochotu pracovať budem priraďovať úlohy jednotlivým ľuďom.
+
+Ďaľšie tipy:
+* VŽDY pred editáciou si stiahnite aktuálny .srt súbor!
+* počúvajte so slúchatkami, ideálne s equalizérom, ktorý utlmuje bassy
+* ak nerozumiete čo práve povedali, tak dajte do tituliek značku `(???)`
+* časovanie nemusí byť dokonalé, na to je čas neskôr, priorita je mať celý prepis čo najskôr
+
+
+## Klúčové slová
 
 Robert Fico, Miroslav Bödör, Pavol Gašpar, Robert Kaliňák, Marek Para
