@@ -90,7 +90,9 @@ yarn-error.log*
 # Temporary deactivation
 **/*.drp
 **/*.zip
-
+**/*.mp4
+**/*.m4a
+src/youtube-original
 
 
 # vercel

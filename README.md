@@ -30,7 +30,7 @@ Momentálne potrebujeme otitulkovať celé video, [>> návod a súbory tu <<](#n
 
 Momentálne je otitulkovaných iba prvých 10 minút videa a zvyšok videa sú automaticky generované titulky z Youtube čo určite pomôže. Ak chcete titulkovať tak:
 
-1. Stiahnite video súbor [tu z Megaupload](https://mega.nz/file/KRIQHBDT#r4kf4T75O33-UdEdT5TLBKwaD1zcYFTEG_ZQGEXvF_I) treba kliknúť vpravo dolu na "Download"
+1. Stiahnite video súbor [tu z Megaupload](https://mega.nz/file/WAwAXRLY#Uqer3s7pz5TKnqh_69e_HwAZ8cXpDfOGsej11HvWt0Y) treba kliknúť vpravo dolu na "Download"
 2. Stiahnite titulkový súbor [chata-v-cifaroch-full.srt](./chata-v-cifaroch-full.srt) tak že sa naň prekliknete a znovu pravo hore kliknete na ikonku šípky dole ![download icon](./assets/images/downloadicon.png) čo je download raw file
 3. stiahnuté súbory otvorte u seba v počítači nejakom programe, ktorý dokáže editovať SRT titulky, napr. [SubtitleEdit](https://www.nikse.dk/subtitleedit), alebo iným, ktorý vám vyhovuje
 4. editujte titulky. Dôležité je aby v nich bolo VŽDY celé meno hovoriaceho, napr. `Robert Fico: Niečo hovorí`. Ak je jeho reč na viacero screenov, tak už meno byť znovu nemusí, ale vždy ak začne hovoriť niekto iný tak treba VŽDY jeho CELÉ meno (toto bude velmi dôležité v budúcnosti pre generovanie zjednodušeného prepisu). Pozrite si prvých 10 minút tituliek ako to je tam.
