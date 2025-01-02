@@ -58,3 +58,19 @@ Poprosím teraz pri začiatku si vybrať úplne náhodný úsek vo videu a ten t
 ## Klúčové slová
 
 Robert Fico, Miroslav Bödör, Pavol Gašpar, Robert Kaliňák, Marek Para
+
+## Ďaľšie zdroje
+
+#### SME spracovalo všetky nahrávky do článkov
+
+(rozdelené na viac článkov, prekliknite sa cez "Súvisiace")
+
+[https://domov.sme.sk/c/23428602/fico-gaspar-para-bodor-chata-nahravky-cifare.html](https://domov.sme.sk/c/23428602/fico-gaspar-para-bodor-chata-nahravky-cifare.html)
+
+#### DenníkN spracovaných 12 kľúčových momentov
+
+[https://dennikn.sk/4380567/12-klucovych-momentov-z-polovnickej-chaty-fico-chce-upokojit-kocnera-aby-nerozpraval-pride-revans-slubuje-kalinak-videa/](https://dennikn.sk/4380567/12-klucovych-momentov-z-polovnickej-chaty-fico-chce-upokojit-kocnera-aby-nerozpraval-pride-revans-slubuje-kalinak-videa/)
+
+#### Jakub Pohle (Malý Cynik) a jeho prepisy
+
+[https://dennikn.sk/autor/pohlejakub/](https://dennikn.sk/autor/pohlejakub/)
