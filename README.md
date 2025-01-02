@@ -28,7 +28,17 @@ Momentálne potrebujeme otitulkovať celé video, [>> návod a súbory tu <<](#n
 
 ## Návod upraviť titulky videa
 
-Momentálne je otitulkovaných iba prvých 10 minút videa a zvyšok videa sú automaticky generované titulky z Youtube čo určite pomôže. Ak chcete titulkovať tak:
+Momentálne je stav takýto:
+* 16.07.2021 - rozpracované
+* 22.07.2021 - rozpracované
+* 12.08.2021 - voľné
+* 19.08.2021 - voľné
+* 26.08.2021 - voľné
+* 29.08.2021 - voľné
+* 02.09.2021 - voľné
+* 09.09.2021 - voľné
+
+Môžete začať tými dňami, ktoré sú "volné", dajte mi vedieť na email [dobrysamaritan@proton.me](mailto:dobrysamaritan@proton.me) že ste začali, aby ste nerobili niečo čo už niekto začal. Ak chcete titulkovať tak:
 
 1. Stiahnite video súbor [tu z Megaupload](https://mega.nz/file/WAwAXRLY#Uqer3s7pz5TKnqh_69e_HwAZ8cXpDfOGsej11HvWt0Y) treba kliknúť vpravo dolu na "Download"
 2. Stiahnite titulkový súbor [chata-v-cifaroch-full.srt](./chata-v-cifaroch-full.srt) tak že sa naň prekliknete a znovu pravo hore kliknete na ikonku šípky dole ![download icon](./assets/images/downloadicon.png) čo je download raw file

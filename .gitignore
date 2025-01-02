@@ -93,7 +93,7 @@ yarn-error.log*
 **/*.mp4
 **/*.m4a
 src/youtube-original
-
+src/whisper-titulky
 
 # vercel
 .vercel
