@@ -90,6 +90,7 @@ yarn-error.log*
 # Temporary deactivation
 **/*.drp
 **/*.zip
+!reels/**/*.zip
 **/*.mp4
 **/*.m4a
 src/youtube-original

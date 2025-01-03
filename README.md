@@ -40,16 +40,20 @@ Momentálne je stav takýto:
 
 Môžete začať tými dňami, ktoré sú "volné", dajte mi vedieť na email [dobrysamaritan@proton.me](mailto:dobrysamaritan@proton.me) že ste začali, aby ste nerobili niečo čo už niekto začal. Ak chcete titulkovať tak:
 
-1. Stiahnite video súbor [tu z Megaupload](https://mega.nz/file/WAwAXRLY#Uqer3s7pz5TKnqh_69e_HwAZ8cXpDfOGsej11HvWt0Y) treba kliknúť vpravo dolu na "Download"
-2. Stiahnite titulkový súbor [chata-v-cifaroch-full.srt](./chata-v-cifaroch-full.srt) tak že sa naň prekliknete a znovu pravo hore kliknete na ikonku šípky dole ![download icon](./assets/images/downloadicon.png) čo je download raw file
+1. Stiahnite [🎥video súbor tu](http://brut.me/anonymous/chata_v_cifaroch/chata-v-cifaroch-full.mp4)
+2. Stiahnite [📜 titulkový súbor tu](http://brut.me/anonymous/chata_v_cifaroch/chata-v-cifaroch-full.srt)
 3. stiahnuté súbory otvorte u seba v počítači nejakom programe, ktorý dokáže editovať SRT titulky, napr. [SubtitleEdit](https://www.nikse.dk/subtitleedit), alebo iným, ktorý vám vyhovuje
-4. editujte titulky. Dôležité je aby v nich bolo VŽDY celé meno hovoriaceho, napr. `Robert Fico: Niečo hovorí`. Ak je jeho reč na viacero screenov, tak už meno byť znovu nemusí, ale vždy ak začne hovoriť niekto iný tak treba VŽDY jeho CELÉ meno (toto bude velmi dôležité v budúcnosti pre generovanie zjednodušeného prepisu). Pozrite si prvých 10 minút tituliek ako to je tam.
-5. uložte súbor a môžete urobiť PR srt súboru, co v praxi je [editácia titulkového súboru tu](https://github.com/dobrysamaritan/chata-v-cifaroch-plna-verzia-zostrihane-video-komplet/edit/main/chata-v-cifaroch-full.srt), alebo mi ten editovaný súbor pošlite na môj email [dobrysamaritan@proton.me](mailto:dobrysamaritan@proton.me) a ja tie zmeny publikujem. Budem sa snažiť publikovať vždy čo najskôr ako to pôjde.
 
-Poprosím teraz pri začiatku si vybrať úplne náhodný úsek vo videu a ten titulkujte, aby sa nestalo, že 10 ľudí bude teraz prekladať tú istú časť videa. Neskôr, keď budem mať prehľad koľko ľudí na tom reálne má ochotu pracovať budem priraďovať úlohy jednotlivým ľuďom.
+
+
+A môžete titulkovať v programe. Zmenené titulky uložte a môžete urobiť PR srt súboru, co v praxi je [editácia titulkového súboru tu](https://github.com/dobrysamaritan/chata-v-cifaroch-plna-verzia-zostrihane-video-komplet/edit/main/chata-v-cifaroch-full.srt), alebo mi jednoducho ten editovaný súbor pošlite na môj email [dobrysamaritan@proton.me](mailto:dobrysamaritan@proton.me) a ja tie zmeny publikujem. Budem sa snažiť publikovať vždy čo najskôr ako to pôjde.
+
+### Ako správne titulkovať
+
+Dôležité je aby v nich bolo VŽDY celé meno hovoriaceho, napr. `Robert Fico: Niečo hovorí`. Ak je jeho reč na viacero screenov, tak už meno byť znovu nemusí, ale vždy ak začne hovoriť niekto iný tak treba VŽDY jeho CELÉ meno (toto bude velmi dôležité v budúcnosti pre generovanie zjednodušeného prepisu). Pozrite si prvých 10 minút tituliek ako to je tam.
 
 Ďaľšie tipy:
-* VŽDY pred editáciou si stiahnite aktuálny [.srt](./chata-v-cifaroch-full.srt) súbor!
+* VŽDY pred editáciou si stiahnite aktuálny [chata-v-cifaroch-full.srt](http://brut.me/anonymous/chata_v_cifaroch/chata-v-cifaroch-full.srt) súbor!
 * počúvajte so slúchatkami, ideálne s equalizérom, ktorý utlmuje bassy
 * ak nerozumiete čo práve povedali, tak dajte do tituliek značku `(???)`
 * časovanie nemusí byť dokonalé, na to je čas neskôr, priorita je mať celý prepis čo najskôr
