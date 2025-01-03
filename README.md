@@ -4,6 +4,9 @@
 
 Cieľom tohto projektu je vytvoriť jedno centrálne miesto na internete, kde budú pokope všetky zdroje ohľadom záznamov z konšpiračnej chaty v Čifároch v čo najprehľadnejšej forme. Vačšina ľudí nemá čas pozerať nezostrihaných 18 hodín záznamu bez tituliek, kde sú často  prázdne miesta alebo nezrozumiteľný zvuk. Toto chceme zmeniť, aby si ich široká verejnosť mohla čo najjednoducšie pozrieť.
 
+> Máme už zopár reels pre vás pripravených na stiahnutie [>> všetky reels tu <<](https://github.com/dobrysamaritan/chata-v-cifaroch-plna-verzia-zostrihane-video-komplet/tree/main/reels)
+
+
 **Momentálna taktika aktérov a ich poskokov je šíriť naratív "Veď tam aj tak nič také nie je". Neskočte na tieto reči, urobte si názor ako by klasik povedal "vlastnou hlavou"!**
 
 Chceme tiež pomôcť novinárom sa v tom orientovať a mať pokope celý prepis, aby sa v ňom dalo ľahko vyhľadávať. Ďalej tento prepis chceme pripraviť aj do formy stráviteľnej pre ChatGPT, aby vedel odpovedať na otázky ohľadom obsahu videa.
