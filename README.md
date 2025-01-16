@@ -34,7 +34,7 @@ Momentálne potrebujeme otitulkovať celé video, [>> návod a súbory tu <<](#n
 Momentálne je stav takýto:
 * 16.07.2021 - rozpracované
 * 22.07.2021 - rozpracované
-* 12.08.2021 - voľné
+* 12.08.2021 - rozpracované
 * 19.08.2021 - voľné
 * 26.08.2021 - voľné
 * 29.08.2021 - voľné
